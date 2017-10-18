@@ -11,3 +11,37 @@
 @import 'layout';
 @import 'pagination';
 @import 'catalogue';
+
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+div.chefa-menuo {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+div.chefa-menuo a {
+	border-radius: 10px;
+	color: white;
+	flex-grow: 1;
+	padding: 1em;
+	margin: 0.5em;
+	font-family: Lato, sans-serif;
+	text-align: center;
+	font-size: 1.2em;
+}
+
+a.vizaghlibro {
+	background-color: navy;
+}
+
+a.loko {
+	background-color: black;
+}
+
+a.ideo {
+	background-color: green;
+}
+
+a.afisho {
+	background-color: red;
+}
