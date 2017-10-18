@@ -5,7 +5,7 @@ author: "Damjes"
 permalink: /o_hackatonach/
 ---
 
-Chciałbym pokazać, że programowanie nie gryzie. Że ta mityczna czynność jest tak naprawdę prosta i logiczna. I że programowanie może być także zabawą. Dlatego wymyśliłem, że dobrym pomysłem byłaby organizacja serii [hackatonów](https://pl.wikipedia.org/wiki/Hackathon). Żebyśmy, ja oraz moi uczniowie, spotkali się w sobotę i poprogramowali. Dla zabawy. Dla treningu. Żeby pokazać, że się da.
+Chciałbym pokazać, że programowanie nie gryzie. Że ta mityczna czynność jest tak naprawdę prosta i logiczna. I że programowanie może być także zabawą. Dlatego wymyśliłem, że dobrym pomysłem byłaby organizacja serii [hackatonów](https://pl.wikipedia.org/wiki/Hackathon). Żebyśmy, ja oraz moi uczniowie, spotykali się co semestr w którąś sobotę i programowali. Dla zabawy. Dla treningu. Żeby pokazać, że się da.
 
 Jednak zanim to nastąpi, chciałbym pokazać, że faktycznie się da. Dlatego też pierwsze hackatony będą inne. Rzucę wyzwanie sobie. Udowodnię, że warto. Zainspiruję Was do tego, żebyście programowali ze mną. Stąd też nietypowa forma, w której programuję na żywo podpięty do rzutnika. Nie wiem, co. Nie wiem, jak to wyjdzie. Wszystko zależy od Was. Pomysł, na jaki wspólnie wpadniemy to dla mnie niespodzianka. Chętnie też przyjmę Wasze sugestie oraz poprawki kodu – mamy tworzyć tę grę wspólnie.
 
