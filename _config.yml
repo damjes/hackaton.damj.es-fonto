@@ -1,5 +1,5 @@
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink:      /:year-:month-:day/:title.html
 
 # Setup
 title:          Hackatony
@@ -27,5 +27,5 @@ github:
   repo:         https://github.com/damjes/hackaton1
 
 # Gems
-plugins:
+gems:
   - jekyll-paginate
